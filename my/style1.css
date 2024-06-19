@@ -1,0 +1,15 @@
+.bottom-section{
+  background-color: white;
+  width: 1200px;
+margin: 80px;
+background-color: #ACFADF;
+box-shadow:0PX 0PX 10PX RED;
+border-radius: 10px;
+overflow: hidden;
+transition: box-shadow 0.3s ease-in-out;
+text-align: center;
+font-size: 4rem;
+}
+.footer-link{
+  padding: 20px;
+}
